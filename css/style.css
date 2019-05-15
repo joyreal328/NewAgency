@@ -1020,3 +1020,53 @@ footer ul.quicklinks {
    padding: 15px 45px;
  }
  
+
+
+
+
+
+
+
+ display: block;
+}
+.hc_scrollup {
+    background-color: #ce1b28;
+}
+.hc_scrollup {
+    border-radius: 0px;
+    bottom: 0px;
+    padding: 3px;
+    display: none;
+    height: 40px;
+    opacity: 1;
+    position: fixed;
+    right: 60px;
+    text-align: center;
+    width: 60px;
+    overflow: hidden;
+    z-index: 9999;
+    color: #ffffff;
+    font-size: 1.000rem;
+    line-height: 1.9;
+}
+table a, table a:hover, table a:focus, a, a:hover, a:focus, dl dd a, dl dd a:hover, dl dd a:focus {
+    color: #ce1b28;
+}
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+a {
+    background-color: transparent;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
